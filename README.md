@@ -8,6 +8,10 @@ Se crea una consola de videojuegos retro con la capacidad de ejecutar 15 juegos 
 - **Fernández Quiroz Félix Fernando**
 - **Angeles Estrada Ricardo**
 
+## Enlaces
+
+- **Youtube:** https://youtu.be/mkrBqoRAv2M
+- **Repositorio GitHub:** https://github.com/KongouFer/ProyectoFinalSistemasEmbebidos
 
 ## Instalación
 
@@ -20,5 +24,16 @@ Se crea una consola de videojuegos retro con la capacidad de ejecutar 15 juegos 
 
 ## Uso
 
-Proporciona ejemplos de cómo utilizar el proyecto o código. Puedes incluir fragmentos de código y capturas de pantalla si es necesario.
+Conecte la Raspberry Pi a un monitor, conecte un control de Xbox y después a la corriente para encenderla. Una vez hecho esto, puede realizar las siguientes acciones:
+
+**Navegación de la interfaz**
+- Joystick izquierda (Arriba/Abajo): Seleccionar titulo a jugar
+**Modificación de la libreria**
+- A: Abrir juego
+- Y: Borrar juego
+**Opciones del sistema**
+- LB: Cierra el juego
+- X: Apaga la consola
+
+
 
